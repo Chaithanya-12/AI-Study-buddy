@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of AI Study Buddy",
+  "description": "A student-centric AI companion that simplifies complex concepts, summarizes notes, and manages revision schedules to boost productivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
